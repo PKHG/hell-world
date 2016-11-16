@@ -1,3 +1,3 @@
 # hello-world
-trying to understand Git
-Removed typing error
+Ok this is  a corrected README.md
+will see ...
